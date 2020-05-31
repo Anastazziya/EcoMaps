@@ -192,8 +192,8 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="289dp"
-        android:layout_height="114dp"
+        android:layout_width="315dp"
+        android:layout_height="115dp"
         android:src="@mipmap/plt"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
